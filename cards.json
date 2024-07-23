@@ -1,0 +1,22 @@
+[
+    {
+        "image":"./Images/1.png",
+        "name":"Shinchan",
+        "role":"Hero"
+    },
+    {
+        "image":"./Images/2.png",
+        "name":"Misae Nohara",
+        "role":"Shinchan mother"
+    },
+    {
+        "image":"./Images/3.jpg",
+        "name":"Hiroshi Nohara",
+        "role":"Shinchan Father"
+    },
+    {
+        "image":"./Images/4.jpg",
+        "name":"Masawo",
+        "role":"Shinchan Friend"
+    }
+]
